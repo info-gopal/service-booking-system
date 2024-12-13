@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "springfox.documentation.swagger-ui.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'springfox.documentation.swagger-ui.enabled'"
+  },
+  {
+    "name": "api-docs",
+    "type": "java.lang.String",
+    "description": "A description for 'api-docs'"
+  },
+  {
+    "name": "swagger-ui",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger-ui'"
+  },
+  {
+    "name": "path",
+    "type": "java.lang.String",
+    "description": "A description for 'path'"
+  },
+  {
+    "name": "enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'enabled'"
+  },
+  {
+    "name": "springdoc",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc'"
+  },
+  {
+    "name": "spring.web.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.cors.allowed-origins'"
+  },
+  {
+    "name": "spring.web.cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.cors.allowed-methods'"
+  },
+  {
+    "name": "spring.web.cors.allow-credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.cors.allow-credentials'"
+  },
+  {
+    "name": "spring.web.cors.allowed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.cors.allowed-headers'"
+  }
+]}
